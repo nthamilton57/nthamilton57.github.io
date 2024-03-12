@@ -1,0 +1,82 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+    display: flex;
+    flex-direction: column;
+    flex: 1;
+    margin: 0;
+}
+
+/* Header */
+.header {
+    background-color: lightseagreen;
+    padding: 15px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.left-header, .right-tabs, .name-info, #name {
+    list-style: none;
+}
+
+.left-header a, .right-tabs a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.right-tabs {
+    display: flex;
+    gap: 15px;
+    margin-right: 10px;
+}
+
+.left-header {
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+}
+
+/* Name Space */
+.name-space {
+    background-color: lightseagreen;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.name-info {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding: 0px;
+    margin: 10px;
+    font-size: 24px;
+}
+
+#name {
+    font-size: 110px;
+    margin: 0px;
+}
+
+/* About Me */
+.about-me {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 20px;
+}
+
+.text {
+    padding: 0px 20px;
+    font-size: 21px;
+}
+
+img {
+    display: flex;
+}
