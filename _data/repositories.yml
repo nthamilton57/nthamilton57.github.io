@@ -1,14 +1,8 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - nthamilton57
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - nthamilton57/Chest_Xray_Computer_Vision
+  - nthamilton57/B573_Assignment_1
