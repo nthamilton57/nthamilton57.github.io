@@ -1,11 +1,9 @@
 {
   "basics": {
     "name": "Noah Hamilton",
-    "label": "Scientist",
     "image": "",
     "email": "nothamil@iu.edu",
     "url": "https://nthamilton57.github.io",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
     "location": {
       "postalCode": "IN 46202",
       "city": "Indianapolis",
@@ -44,24 +42,90 @@
     "certificates": [
     {
       "name": "Fundamentals of Data Analytics",
-      "date": "2025-05",
+      "date": "2024",
       "issuer": "Indiana University Purdue University Indianapolis"
     },
     {
       "name": "Applied Data Science",
-      "date": "2018-05",
+      "date": "2024",
       "issuer": "Indiana University Purdue University Indianapolis"
     }
   ],
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "url": "https://example.com",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity"]
+      "name": "Department of Biology, Indiana University Indianapolis",
+      "position": "Academic Lab Technician",
+      "startDate": "2024-01",
+      "endDate": "2025-07",
+      "summary": "Provided comprehensive laboratory support and instruction across multiple undergraduate biology courses, managing operations, safety protocols, technical procedures, and staff coordination to ensure effective learning environments for hundreds of students.",
+      "highlights": [
+        "Implemented detailed weekly lab plans, ensuring a seamless learning experience for up to 900 students.", 
+        "Prepared laboratory course materials, equipment, media and reagents for Human Anatomy, Exploring the World of Animals, and Human Physiology courses.", 
+        "Maintained compliance with Biosafety Level 2 protocols and completed annual Blood-borne Pathogens & Laboratory Safety training requirements.",
+        "Conducted routine instrument checks and calibration to ensure accurate laboratory results and equipment functionality.", 
+        "Prepared specialized reagents and media according to established protocols and quality standards.", 
+        "Troubleshot analytical equipment malfunctions and resolved experimental errors to maintain laboratory efficiency.", 
+        "Managed laboratory inventory and coordinated equipment ordering to ensure adequate supplies and resources.", 
+        "Organized laboratory spaces and maintained systematic workflow processes for optimal functionality.", 
+        "Participated in hiring committees to evaluate and select qualified candidates for staff positions.", 
+        "Utilized Microsoft Office applications to document procedures, track inventory, and communicate laboratory results.", 
+        "Collaborated effectively with faculty members to achieve laboratory objectives."]
+    }, 
+    {
+      "name": "Honors College, Indiana University Purdue University Indianapolis",
+      "position": "H-200 Course Mentor",
+      "startDate": "2020-08",
+      "endDate": "2023-12",
+      "summary": "Mentored and supported undergraduate honors students through comprehensive academic and leadership development programs while contributing to course leadership and administrative coordination.",
+      "highlights": ["Mentored a cohort of 15 students, equipping them with essential skills and strategies for academic and professional success", "Conducted individual one-on-one meetings with each student to provide personalized academic advising and goal-setting guidance", "Organized annual Leadership & Engagement Panel by recruiting and coordinating campus leaders to present to Honors College students", "Developed comprehensive training modules to orient new mentors to course curriculum and facilitate their transition into the program", "Provided weekly session resources and materials to all mentors to support effective facilitation of class sessions", "Served as Student Liaison, functioning as primary communication bridge between H-200 leadership team and Dean of Honors College", "Streamlined internal communication by addressing mentor questions and concerns with Dean Dr. Kristy Sheeler"]
+    },
+    {
+      "name": "Department of Biology, Indiana University Purdue University Indianapolis",
+      "position": "Prep Lab Assistant",
+      "startDate": "2024-01",
+      "endDate": "2025-07",
+      "summary": "Assisted in management of comprehensive laboratory preparation and technical operations supporting up to 500 students per semester across multiple biology courses",
+      "highlights": ["Developed weekly laboratory plans and coordinated setup for two courses serving up to 500 students per semester", "Prepared and organized required laboratory materials using advanced techniques including sample preparation, analysis, dispensing, and distribution", "Conducted routine instrument checks and calibration to ensure accurate laboratory functionality", "Prepared specialized reagents, media, and materials for gel electrophoresis, thin layer chromatography, and microbiological cultivation", "Executed PCR automation and preparation procedures for molecular biology experiments", "Troubleshot laboratory problems and implemented necessary modifications to ensure seamless lab operations"]
+    },
+    {
+      "name": "Department of Chemistry, Indiana University Purdue University Indianapolis",
+      "position": "Recitation Leader",
+      "startDate": "2021-01",
+      "endDate": "2023-12",
+      "summary": "Facilitated collaborative learning experiences and provided academic support to enhance student success in chemistry courses.",
+      "highlights": ["Led weekly chemistry recitation sessions for 12 students, promoting active participation and collaborative learning environments", "Assessed student assignments and provided constructive feedback to improve course comprehension and academic performance", "Facilitated study skills discussions and equipped students with effective academic success strategies", "Attended weekly training meetings to support new mentors in developing leadership techniques and content knowledge", "Presented instructional topics including strategic grouping, learning styles, and assessment techniques to enhance teaching effectiveness"]
+    },
+    {
+      "name": "Science Animal Resource Center, Indiana University Purdue University Indianapolis",
+      "position": "Animal Care Technician",
+      "startDate": "2022-05",
+      "endDate": "2023-05",
+      "summary": "Maintained animal health and facility standards to support research operations while ensuring comprehensive documentation and care protocols.",
+      "highlights": ["Conducted daily room checks and monitored animal health by ensuring adequate food, housing, and water supplies", "Maintained facility hygiene standards by washing and restocking caging supplies to enhance operational efficiency", "Documented rodent health status and population data to ensure comprehensive research records and compliance"]
+    },
+    {
+      "name": "Department of Chemistry, Indiana University Purdue University Indianapolis",
+      "position": "Roar in Chemistry (RIC) Mentor",
+      "startDate": "2022-09",
+      "endDate": "2023-12",
+      "summary": "Supported student academic success through interactive study skill development and collaborative chemistry learning sessions.",
+      "highlights": ["Led interactive discussions focused on effective study skills specifically tailored for college-level chemistry students", "Facilitated collaborative learning experiences to reinforce student understanding of complex chemistry concepts", "Conducted hour-long RIC sessions, encouraging student engagement through questions and personalized study technique guidance"]
+    },
+    {
+      "name": "Self-Employed",
+      "position": "Private Tutor",
+      "startDate": "2018-11",
+      "endDate": "2022-01",
+      "summary": "Delivered personalized academic instruction to intermediate and high school students, adapting teaching methods to individual learning needs.",
+      "highlights": ["Maintained consistent personalized tutoring schedules with weekly sessions tailored to address individual student academic needs", "Delivered comprehensive mathematics and science instruction to students ranging from intermediate through high school levels", "Adapted teaching methodologies to accommodate diverse learning styles and maximize student comprehension and academic improvement"]
+    },
+    {
+      "name": "Honors College, Indiana University Purdue University Indianapolis",
+      "position": "Front Office Assistant",
+      "startDate": "2022-05",
+      "endDate": "2022-08",
+      "summary": "Provided administrative support and enhanced student services within the Honors College environment.",
+      "highlights": ["Responded to student inquiries via email and phone communication to enhance overall Honors College student experience", "Maintained and organized shared study and collaboration spaces within the Honors College Lounge for student use"]
     }
   ],
   "volunteer": [
