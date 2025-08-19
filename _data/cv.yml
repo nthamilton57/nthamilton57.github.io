@@ -3,95 +3,184 @@
   contents:
     - name: Full Name
       value: Noah Hamilton
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
+    - name: Email
+      value: nothamil@iu.edu
+    - name: Website
+      value: https://nthamilton57.github.io
+    - name: Location
+      value: Indianapolis, Indiana, US
 
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: PhD in Biology
+      institution: Indiana University, Indianapolis
+      year: 2025 - Present
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Doctoral studies in Biology focusing on advanced research methodologies
+    - title: MS in Bioinformatics
+      institution: Indiana University, Indianapolis
+      year: 2024 - 2025
       description:
-        - Description 1.
-        - Description 2.
+        - Master's degree in Bioinformatics with focus on computational biology
+    - title: BS in Biology
+      institution: Indiana University Purdue University Indianapolis (IUPUI)
+      year: 2020 - 2024
+      description:
+        - Bachelor's degree in Biology with comprehensive laboratory and research experience
+
+- title: Certificates
+  type: time_table
+  contents:
+    - title: Applied Data Science
+      institution: Indiana University Purdue University Indianapolis
+      year: 2024
+    - title: Fundamentals of Data Analytics
+      institution: Indiana University Purdue University Indianapolis
+      year: 2024
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Academic Lab Technician
+      institution: Department of Biology, Indiana University Indianapolis
+      year: 2024 - 2025
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - Provided comprehensive laboratory support and instruction across multiple undergraduate biology courses, managing operations, safety protocols, technical procedures, and staff coordination to ensure effective learning environments for hundreds of students
+        - Implemented detailed weekly lab plans, ensuring a seamless learning experience for up to 900 students
+        - Prepared laboratory course materials, equipment, media and reagents for Human Anatomy, Exploring the World of Animals, and Human Physiology courses
+        - Maintained compliance with Biosafety Level 2 protocols and completed annual Blood-borne Pathogens & Laboratory Safety training requirements
+        - Participated in hiring committees to evaluate and select qualified candidates for staff positions
+    - title: H-200 Course Mentor
+      institution: Honors College, Indiana University Purdue University Indianapolis
+      year: 2020 - 2023
       description:
-        - Description 1.
-        - Description 2.
-
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+        - Mentored and supported undergraduate honors students through comprehensive academic and leadership development programs while contributing to course leadership and administrative coordination
+        - Mentored a cohort of 15 students, equipping them with essential skills and strategies for academic and professional success
+        - Organized annual Leadership & Engagement Panel by recruiting and coordinating campus leaders to present to Honors College students
+        - Served as Student Liaison, functioning as primary communication bridge between H-200 leadership team and Dean of Honors College
+    - title: Prep Lab Assistant
+      institution: Department of Biology, Indiana University Purdue University Indianapolis
+      year: 2020 - 2023
       description:
+        - Assisted in management of comprehensive laboratory preparation and technical operations supporting up to 500 students per semester across multiple biology courses
+        - Developed weekly laboratory plans and coordinated setup for two courses serving up to 500 students per semester
+        - Prepared specialized reagents, media, and materials for gel electrophoresis, thin layer chromatography, and microbiological cultivation
+        - Executed PCR automation and preparation procedures for molecular biology experiments
+    - title: Chemistry Recitation Leader
+      institution: Department of Chemistry, Indiana University Purdue University Indianapolis
+      year: 2021 - 2023
+      description:
+        - Facilitated collaborative learning experiences and provided academic support to enhance student success in chemistry courses
+        - Led weekly chemistry recitation sessions for 12 students, promoting active participation and collaborative learning environments
+        - Presented instructional topics including strategic grouping, learning styles, and assessment techniques to enhance teaching effectiveness
+    - title: Animal Care Technician
+      institution: Science Animal Resource Center, Indiana University Purdue University Indianapolis
+      year: 2022 - 2023
+      description:
+        - Maintained animal health and facility standards to support research operations while ensuring comprehensive documentation and care protocols
+        - Conducted daily room checks and monitored animal health by ensuring adequate food, housing, and water supplies
+        - Documented rodent health status and population data to ensure comprehensive research records and compliance
+    - title: Roar in Chemistry (RIC) Mentor
+      institution: Department of Chemistry, Indiana University Purdue University Indianapolis
+      year: 2022 - 2023
+      description:
+        - Supported student academic success through interactive study skill development and collaborative chemistry learning sessions
+        - Led interactive discussions focused on effective study skills specifically tailored for college-level chemistry students
+        - Conducted hour-long RIC sessions, encouraging student engagement through questions and personalized study technique guidance
+    - title: Private Tutor
+      institution: Self-Employed
+      year: 2018 - 2022
+      description:
+        - Delivered personalized academic instruction to intermediate and high school students, adapting teaching methods to individual learning needs
+        - Maintained consistent personalized tutoring schedules with weekly sessions tailored to address individual student academic needs
+        - Delivered comprehensive mathematics and science instruction to students ranging from intermediate through high school levels
+    - title: Front Office Assistant
+      institution: Honors College, Indiana University Purdue University Indianapolis
+      year: 2022
+      description:
+        - Provided administrative support and enhanced student services within the Honors College environment
+        - Responded to student inquiries via email and phone communication to enhance overall Honors College student experience
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Research Experience
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: Quantum Computing Research
+      institution: Example Institution
+      year: 2018
+      description:
+        - Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation
+        - Focused on quantum teleportation and quantum cryptography applications
+        - Published research findings on quantum information processing
+
+- title: Volunteer Experience
+  type: time_table
+  contents:
+    - title: Peer Mentor
+      institution: Honors College, Indiana University Purdue University Indianapolis
+      year: 2022 - 2023
+      description:
+        - Provided individualized academic and personal development support to honors students while participating in ongoing professional development and mentor training programs
+        - Conducted biweekly meetings with assigned students, offering personalized guidance on academic goals and extracurricular involvement
+        - Attended bi-semesterly large group training sessions and monthly small group meetings to enhance mentoring effectiveness
+    - title: Race Coordination Volunteer
+      institution: Tuxedo Brothers Event Management
+      year: 2019 - Present
+      description:
+        - Support large-scale race event operations by assisting in coordinating logistics, ensuring participant safety, and providing customer service for events serving up to 20,000 participants
+        - Collaborate with the race team to set up race routes, ensuring participant safety and event success
+        - Serve as knowledgeable point of contact for race participants, addressing inquiries and providing information about event organization
+    - title: Volunteer
+      institution: Gleaners Goodbank of Indiana
+      year: 2021 - 2022
+      description:
+        - Supported community food security initiatives through meal preparation, distribution logistics, and facility operations coordination
+        - Packaged meals for distribution to families, contributing to the fight against food insecurity
+        - Directed traffic through the facility, maintaining a safe environment for volunteers and recipients
+    - title: Volunteer Speaker
+      institution: Honors College, Indiana University Purdue University Indianapolis
+      year: 2023 - 2024
+      description:
+        - Represented the Honors College experience to prospective students through speaking engagements and recruitment events
+        - Assisted with IUPUI Honors College admission events by presenting personal experiences and academic growth to prospective students
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2025
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - IUPUI Bepko Scholars Program - Selected as a Bepko Scholar, the most competitive and prestigious award program in the IUPUI Honors College
+    - year: 2024
       items:
-        - Max Planck Medal
+        - Chancellor's Scholar - IUPUI School of Science (Top student based on educational achievements)
+        - Chancellor's Scholar - IUPUI Honors College (Top student based on educational achievements)
+    - year: 2023
+      items:
+        - Top 100 Student - IUPUI (Excellence in academics, campus leadership, and community engagement)
+    - year: 2022
+      items:
+        - Richard O. McCracken Award - IUPUI Department of Biology (Outstanding sophomore or junior majoring in Biology)
+    - year: 2021
+      items:
+        - Ronald E. Kirk Memorial Award - IUPUI Department of Biology (Top student in freshman biology)
+        - Scholar's List - IUPUI School of Science (Cumulative GPA of 3.75 or higher)
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Quantum Physics
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Quantum Mechanics and theoretical applications
+        - Quantum Computing and information processing
+        - Quantum Communication and cryptography systems
+    - title: Biology and Bioinformatics
       items:
-        - Description 1.
-        - Description 2.
+        - Computational biology and data analysis
+        - Molecular biology and genetic research
+        - Laboratory techniques and instrumentation
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - <u>Technical Skills:</u> Laboratory instrumentation, data analytics, Microsoft Office, scientific research methodologies
+    - <u>Leadership:</u> Mentoring, training program development, team coordination, student engagement
