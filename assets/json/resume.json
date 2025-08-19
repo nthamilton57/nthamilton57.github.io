@@ -20,7 +20,7 @@
       "url": "https://science.indianapolis.iu.edu/biology/index.html",
       "area": "Biology",
       "studyType": "PhD",
-      "startDate": "2024-08"
+      "startDate": "2025-08"
     },
     {
       "institution": "Indiana University, Indianapolis",
@@ -39,6 +39,18 @@
       "studyType": "BS",
       "startDate": "2020-08",
       "endDate": "2024-05"
+    }
+  ],
+    "certificates": [
+    {
+      "name": "Fundamentals of Data Analytics",
+      "date": "2025-05",
+      "issuer": "Indiana University Purdue University Indianapolis"
+    },
+    {
+      "name": "Applied Data Science",
+      "date": "2018-05",
+      "issuer": "Indiana University Purdue University Indianapolis"
     }
   ],
   "work": [
@@ -71,18 +83,6 @@
       "awarder": "Royal Swedish Academy of Sciences",
       "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
       "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Fundamentals of Data Analytics",
-      "date": "2025-05-22",
-      "issuer": "Indiana University Purdue University Indianapolis"
-    },
-    {
-      "name": "Applied Data Science",
-      "date": "2018-05-22",
-      "issuer": "Indiana University Purdue University Indianapolis"
     }
   ],
   "skills": [
