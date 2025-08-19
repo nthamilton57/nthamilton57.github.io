@@ -16,16 +16,15 @@
       "education": [
       {
       "institution": "Indiana University, Indianapolis",
-      "location": "Indianapolis, Indiana, USA",
+      "location": "Indianapolis, Indiana",
       "url": "https://science.indianapolis.iu.edu/biology/index.html",
       "area": "Biology",
       "studyType": "PhD",
-      "startDate": "2024-08",
-      "endDate": "2028-06"
+      "startDate": "2024-08"
     },
     {
       "institution": "Indiana University, Indianapolis",
-      "location": "Indianapolis, Indiana, USA",
+      "location": "Indianapolis, Indiana",
       "url": "https://luddy.indianapolis.iu.edu/index.html",
       "area": "Bioinformatics",
       "studyType": "MS",
@@ -33,8 +32,8 @@
       "endDate": "2025-06"
     },
     {
-      "institution": "Indiana University Purdue University Indianpolis (IUPUI)",
-      "location": "Indianapolis, Indiana, USA",
+      "institution": "Indiana University Purdue University Indianapolis (IUPUI)",
+      "location": "Indianapolis, Indiana",
       "url": "https://science.indianapolis.iu.edu/biology/index.html",
       "area": "Biology",
       "studyType": "BS",
@@ -76,46 +75,14 @@
   ],
   "certificates": [
     {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-location-dot"
+      "name": "Fundamentals of Data Analytics",
+      "date": "2025-05-22",
+      "issuer": "Indiana University Purdue University Indianapolis"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-tag"
-    },
-    {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-envelope"
-    },
-    {
-      "name": "Quantum Cryptography",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-hashtag"
-    },
-    {
-      "name": "Quantum Communication",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-calendar"
-    },
-    {
-      "name": "Quantum Teleportation",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "url": "https://example.com",
-      "icon": "fa-solid fa-clipboard-check"
+      "name": "Applied Data Science",
+      "date": "2018-05-22",
+      "issuer": "Indiana University Purdue University Indianapolis"
     }
   ],
   "skills": [
